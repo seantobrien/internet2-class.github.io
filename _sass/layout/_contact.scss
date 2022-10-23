@@ -11,13 +11,17 @@ section#contact {
         font-size: 20px;
         @include body-font;
       }
+ a {
+  color: $white;
+  &:hover {
+    color: $white;
+    text-decoration: underline;
+    }
+  &:visited {
+    color: $white
+    }
+}
 
-  a {
-  	color: $white;
-  	&:hover {
-    	text-decoration:underline;
-  	}
-      }
   .form-group {
     margin-bottom: 25px;
     input,

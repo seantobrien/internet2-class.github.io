@@ -4,7 +4,11 @@ p { line-height: 1.75; }
 
 a { color: #007474; }
 
-a:hover { color: #004141; }
+a:hover { color: #004141; text-decoration: underline; }
+
+a2 { color: #fff; }
+
+a2:hover { color: #fff; }
 
 .text-primary { color: #007474 !important; }
 
@@ -172,7 +176,9 @@ section#contact p { color: #fff; font-size: 20px; font-family: -apple-system, Bl
 
 section#contact a { color: #fff; }
 
-section#contact a:hover { text-decoration: underline; }
+section#contact a:hover { color: #fff; text-decoration: underline; }
+
+section#contact a:visited { color: #fff; }
 
 section#contact .form-group { margin-bottom: 25px; }
 
