@@ -98,30 +98,24 @@ When you participate in any CLASS Learning module or Incubator program, you auto
 
 "
 
-
   contact:
-    title: "Contact Us"
-    text: ""
+    title: "Get in touch"
+    text: "   "
     section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Institution"
-    phone-validation: "Please enter your institution"
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+    body: " **[class@internet2.edu](mailto:class@internet2.edu)** 
+
+
+**[Join the mailing list](https://lists.internet2.edu/sympa/info/class-announce)** "
+
 
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
+      - url: https://twitter.com/internet2
         icon: "fab fa-twitter"
-      - url: https://linkedin.com
+      - url: https://linkedin.com/internet2
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/internet2-class/
         icon: "fab fa-github"
 en-US:
   <<: *DEFAULT_EN

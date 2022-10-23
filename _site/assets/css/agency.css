@@ -38,7 +38,7 @@ img::-moz-selection { background: transparent; }
 
 #mainNav { background-color: #e9ecef; }
 
-#mainNav .navbar-toggler { font-size: 12px; right: 0; padding: 13px; text-transform: uppercase; color: #007474; border: 0; background-color: #007474; font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+#mainNav .navbar-toggler { font-size: 12px; right: 0; padding: 20px; text-transform: uppercase; color: #007474; border: 0; background-color: #007474; font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
 
 #mainNav .navbar-brand { color: #007474; font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
 
@@ -48,7 +48,7 @@ img::-moz-selection { background: transparent; }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover { color: #007474; }
 
-@media (min-width: 992px) { #mainNav { padding-top: 25px; padding-bottom: 25px; -webkit-transition: padding-top 0.3s, padding-bottom 0.3s; -moz-transition: padding-top 0.3s, padding-bottom 0.3s; transition: padding-top 0.3s, padding-bottom 0.3s; border: none; background-color: transparent; } #mainNav .navbar-brand { font-size: 1.75em; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; transition: all 0.3s; } #mainNav .navbar-nav .nav-item .nav-link { padding: 1.1em 1em !important; } #mainNav.navbar-shrink { padding-top: 0; padding-bottom: 0; background-color: #e9ecef; } #mainNav.navbar-shrink .navbar-brand { font-size: 1.25em; padding: 12px 0; } }
+@media (min-width: 992px) { #mainNav { padding-top: 10px; padding-bottom: 10px; -webkit-transition: padding-top 0.1s, padding-bottom 0.1s; -moz-transition: padding-top 0.1s, padding-bottom 0.1s; transition: padding-top 0.1s, padding-bottom 0.1s; border: none; background-color: transparent; } #mainNav .navbar-brand { font-size: 1.75em; -webkit-transition: all 0.1s; -moz-transition: all 0.1s; transition: all 0.1s; } #mainNav .navbar-nav .nav-item .nav-link { padding: 1.1em 1em !important; } #mainNav.navbar-shrink { padding-top: 15; padding-bottom: 15; background-color: #e9ecef; } #mainNav.navbar-shrink .navbar-brand { font-size: 1.25em; padding: 12px 0; } }
 
 #scrolling-clients { display: flex; flex-wrap: nowrap; overflow-x: scroll; overflow-y: hidden; }
 
@@ -167,6 +167,12 @@ header.masthead .intro-text .intro-heading { font-size: 22px; font-weight: norma
 section#contact { background-color: #212529; background-image: url("../img/contact.png"); background-repeat: no-repeat; background-position: center; }
 
 section#contact .section-heading { color: #fff; }
+
+section#contact p { color: #fff; font-size: 20px; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+
+section#contact a { color: #fff; }
+
+section#contact a:hover { text-decoration: underline; }
 
 section#contact .form-group { margin-bottom: 25px; }
 
