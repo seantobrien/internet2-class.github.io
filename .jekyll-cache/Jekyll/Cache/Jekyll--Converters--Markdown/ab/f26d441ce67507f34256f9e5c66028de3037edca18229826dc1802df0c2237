@@ -1,0 +1,73 @@
+I"'<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Topic</th>
+      <th>Type</th>
+      <th>Presenter</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2/21 - 4/21</td>
+      <td>GCP Professional Cloud Architect</td>
+      <td>Certification Prep (9 weeks)</td>
+      <td>Oren Sreebny</td>
+    </tr>
+    <tr>
+      <td>2/22 - 4/22</td>
+      <td>AWS Solutions Architect Associate</td>
+      <td>Certification Prep (9 weeks)</td>
+      <td>Sharif Nijim</td>
+    </tr>
+    <tr>
+      <td>5/22 - 6/22</td>
+      <td>AWS Solutions Architect Associate</td>
+      <td>Certification Prep (9 weeks)</td>
+      <td>Sharif Nijim</td>
+    </tr>
+    <tr>
+      <td>4/20/22</td>
+      <td><a href="https://events.withgoogle.com/fundamentals-of-life-science-tools-in-google-cloud-april/">Fundamentals of Life Science Tools on Google Cloud</a></td>
+      <td>Hands-on sprint ( 8 hours)</td>
+      <td>Rui Costa / GCP</td>
+    </tr>
+    <tr>
+      <td>5/18/22</td>
+      <td>Making the most of Azure Spot instances</td>
+      <td>Talk (60 mins)</td>
+      <td>Jerry Morey / Azure</td>
+    </tr>
+    <tr>
+      <td>5/26/22</td>
+      <td><a href="./2022-events/CLASS-Essentials-AWS-052622.md">CLASS Essentials for Amazon Web Services (AWS)</a></td>
+      <td>Training (4 hours)</td>
+      <td>Amanda Tan / Internet2</td>
+    </tr>
+    <tr>
+      <td>6/15/22</td>
+      <td>AWS Hybrid/Cloud Bursting</td>
+      <td>Talk (60 mins)</td>
+      <td>Scott Friedman / AWS</td>
+    </tr>
+    <tr>
+      <td>7/22 - 9/22</td>
+      <td>AWS Solutions Architect Associate</td>
+      <td>Certification Prep (9 weeks)</td>
+      <td>Sharif Nijim</td>
+    </tr>
+    <tr>
+      <td>8/15/22</td>
+      <td><a href="https://internet2.edu/advance-your-transition-to-the-cloud-with-the-azure-accelerator-program-for-research/">Call for Applications Open: Azure Accelerator for Research</a></td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>9/12/22</td>
+      <td>FAIR Supercomputing using Azure CycleCloud</td>
+      <td>Sprint (6 hours)</td>
+      <td>Azure</td>
+    </tr>
+  </tbody>
+</table>
+:ET

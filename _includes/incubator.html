@@ -1,0 +1,35 @@
+<!-- Incubator -->
+{% if site.locale and site.locale != "" and site.locale != nil %}
+<section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].incubator.section | default: "incubator" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].incubator.title | default: "About Us" }}</h2>
+        <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].incubator.text | default: "" }}</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12 mx-auto text-center">
+        <div class="large text-muted">{{ site.data.sitetext[site.locale].incubator.body | markdownify }}</div>
+      </div>
+    </div>
+  </div>
+</section>
+{% else %}
+<section class="page-section" id="{{ site.data.sitetext.incubator.section | default: "incubator" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext.incubator.title | default: "About Us" }}</h2>
+        <h3 class="section-subheading text-muted">{{ site.data.sitetext.incubator.text | default: "" }}</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12 mx-auto text-center">
+        <div class="large text-muted">{{ site.data.sitetext.incubator.body | markdownify }}</div>
+      </div>
+    </div>
+  </div>
+</section>
+{% endif %}
+<!-- End Incubator -->
