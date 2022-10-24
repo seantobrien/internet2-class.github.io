@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Learning Modules"
+    - title: "Program"
       section: services
     - title: "Calendar"
       section: calendar
