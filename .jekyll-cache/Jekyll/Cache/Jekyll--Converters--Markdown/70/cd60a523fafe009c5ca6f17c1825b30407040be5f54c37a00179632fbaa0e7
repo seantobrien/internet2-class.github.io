@@ -1,0 +1,31 @@
+I"<table>
+  <thead>
+    <tr>
+      <th>Resource</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.cloudbank.org">CloudBank</a></td>
+      <td>          An NSF-funded project to simply cloud access for computer science education and research</td>
+    </tr>
+    <tr>
+      <td><a href="https://software-carpentry.org/">Software Carpentry</a></td>
+      <td>Learning basic data science and lab skills for research computing</td>
+    </tr>
+    <tr>
+      <td><a href="https://aws.amazon.com/training/skills-centers/">AWS Skills Center</a></td>
+      <td>Resource for building AWS connections and skills</td>
+    </tr>
+    <tr>
+      <td><a href="https://learn.microsoft.com/en-us/training/azure/">Azure on Microsoft Learn</a></td>
+      <td>Azure learning center</td>
+    </tr>
+    <tr>
+      <td><a href="https://cloud.google.com/training?hl=en">Google Cloud Training and Skills Center</a></td>
+      <td>Hub for Google Cloud learning pathways</td>
+    </tr>
+  </tbody>
+</table>
+:ET

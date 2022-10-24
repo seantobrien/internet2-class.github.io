@@ -70,7 +70,6 @@ When you participate in any CLASS Learning module or Incubator program, you auto
   pastevents:
     title: "Past Events"
     text: "   "
-    section: calendar
     body: "| Date | Topic | Type | Presenter | 
 
            | --- | --- | --- | --- | 
@@ -96,6 +95,25 @@ When you participate in any CLASS Learning module or Incubator program, you auto
 | 9/12/22 | FAIR Supercomputing using Azure CycleCloud | Sprint (6 hours) | Azure |
 
 "
+
+  resources:
+    title: "Resources"
+    text: "   "
+    body: "| Resource | Description |
+
+| --- | --- |
+
+| [CloudBank](https://www.cloudbank.org) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; An NSF-funded project to simply cloud access for computer science education and research |
+
+| [Software Carpentry](https://software-carpentry.org/) | Learning basic data science and lab skills for research computing|
+
+| [AWS Skills Center](https://aws.amazon.com/training/skills-centers/) | Resource for building AWS connections and skills |
+ 
+| [Azure on Microsoft Learn](https://learn.microsoft.com/en-us/training/azure/) | Azure learning center |
+
+| [Google Cloud Training and Skills Center](https://cloud.google.com/training?hl=en) | Hub for Google Cloud learning pathways |
+"
+
 
   contact:
     title: "Get in touch"

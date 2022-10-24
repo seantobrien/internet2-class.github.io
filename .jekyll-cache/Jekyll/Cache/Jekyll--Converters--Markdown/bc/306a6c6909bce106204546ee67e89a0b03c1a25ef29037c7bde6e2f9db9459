@@ -1,0 +1,23 @@
+I"�<table>
+  <thead>
+    <tr>
+      <th>Resource</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.cloudbank.org">CloudBank</a></td>
+      <td>          An NSF-funded project to simply cloud access for computer science education and research</td>
+    </tr>
+    <tr>
+      <td><a href="https://software-carpentry.org/">Software Carpentry</a></td>
+      <td>Learning basic data science and lab skills for research computing</td>
+    </tr>
+    <tr>
+      <td><a href="https://aws.amazon.com/training/skills-centers/">AWS Skills Center</a></td>
+      <td>Resource for building AWS connections and skills</td>
+    </tr>
+  </tbody>
+</table>
+:ET
