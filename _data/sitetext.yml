@@ -21,16 +21,16 @@ en: &DEFAULT_EN
     text: "  "
     section: services
     list:
-      - title: "Learning Modules"
+      - title: "[Learning Modules](/learningmodules)"
         desc: "CLASS offers hands-on, learning experiences that help higher education institutions move cloud forward."
         icon: fas fa-book-reader #find more at https://fontawesome.com/icons
-      - title: "Incubators"
+      - title: "[Incubators](/#incubator)"
         desc: "CLASS collaborates with various institutional partners to accelerate the adoption of cloud computing for research and higher education."
         icon: fas fa-seedling
-      - title: "CLASS Community"
+      - title: "[CLASS Community](/#calendar)"
         desc: "CLASS aims to build a robust R&E community ready to move cloud forward!
 When you participate in any CLASS Learning module or Incubator program, you automatically become part of the CLASS community."
-        icon: fas fa-users
+        icon: fas fa-users-cog
 
   calendar:
     title: "Upcoming Events"

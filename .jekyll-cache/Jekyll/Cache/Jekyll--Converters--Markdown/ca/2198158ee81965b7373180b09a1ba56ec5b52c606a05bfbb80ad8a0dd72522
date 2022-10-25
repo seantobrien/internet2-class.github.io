@@ -1,0 +1,74 @@
+I"<p><br />
+<br /></p>
+
+<div class="col-lg-12 text-center">
+	<h2 class="section-heading text-uppercase text-muted">Learning Modules</h2>
+</div>
+
+<p style="text-align:center">CLASS consists of a series of “learning and skills sessions” for foundational to advanced learners.
+</p>
+
+<p><br /></p>
+<div>
+<h3 class="section-subheading text-uppercase text-muted">CLASS ESSENTIALS</h3>
+</div>
+
+<ul>
+  <li>Virtual four-hour workshops built by researchers for the research community.</li>
+  <li>Materials are available <a href="https://github.internet2.edu/pages/CLASS/CLASS-Essentials/intro.html">here</a> and were developed following The Software Carpentry(https://software-carpentry.org) template.</li>
+  <li>
+    <p>Participants will learn how to:</p>
+
+    <ol>
+      <li>Log in and navigate the cloud console</li>
+      <li>Create a cloud computing instance and understand the components of cloud compute</li>
+      <li>Create a cloud storage bucket</li>
+      <li>Run a simple research analysis on the compute instance you built and utilize the data in the storage bucket</li>
+      <li>Monitor costs</li>
+      <li>Clean up your resources and utilize best practices for developing research workflows on the cloud</li>
+    </ol>
+  </li>
+</ul>
+
+<p><br /></p>
+<div>
+<h3 class="section-subheading text-uppercase text-muted">CLASS ADVANCED</h3>
+</div>
+
+<ul>
+  <li>Two weeks intensive learning experiences aimed at enabling campus-wide cloud adoption.</li>
+  <li>Week 1: Participants will learn advanced cloud skills such as networking, identity management, multi-cloud architecture, databases, continuous-deployment, microservices, and AI/ML pipelines.</li>
+  <li>Week 2: Collaborative capstone project to simulate real-world and academic use cases.</li>
+</ul>
+
+<p><strong>A new iteration of CLASS Advanced will launch in January 2023. <a href="https://lists.internet2.edu/sympa/info/class-announce?_ga=2.148534065.729352177.1666476629-1035221937.1630427862">Sign up</a> to be notified when applications open!</strong></p>
+
+<p><br /></p>
+<div>
+<h3 class="section-subheading text-uppercase text-muted">CLASS CERTIFICATION LEARNING PATHWAYS </h3>
+</div>
+<ul>
+  <li>Combined synchronous/asynchronous learning that prepares participants for cloud service provider certifications.</li>
+  <li>Participants guided through a learning path and testing materials by higher education cloud experts.</li>
+  <li>Each cohort is limited to only 15 participants.</li>
+  <li>Targeted towards administrative/central IT staff and those looking to get certified.</li>
+</ul>
+
+<p><strong><a href="https://lists.internet2.edu/sympa/info/class-announce?_ga=2.148534065.729352177.1666476629-1035221937.1630427862">Sign up</a> to be notified when the next cohort convenes!</strong></p>
+
+<p><br /></p>
+<div>
+<h3 class="section-subheading text-uppercase text-muted">CLASS COMMUNITY WEBINARS </h3>
+</div>
+
+<ul>
+  <li>A series of virtual events that are designed to help raise the Cloud IQ of the Research and Education (R&amp;E) community!</li>
+  <li>Hands-on deep dives, one-hour overviews, talks from previous CLASS participants, and much more!</li>
+</ul>
+
+<p><strong><a href="/#calendar">View list of upcoming events</a></strong></p>
+
+<p><br />
+<br />
+If you have questions, please contact us by email at <a href="mailto:class@internet2.edu">class@internet2.edu</a>.</p>
+:ET
