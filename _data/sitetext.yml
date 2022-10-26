@@ -62,8 +62,7 @@ When you participate in any CLASS Learning module or Incubator program, you auto
     title: "Incubator Programs"
     text: "   "
     section: incubator
-    body: " In October 2022, Internet2 CLASS and Microsoft Azure launched the inaugural [Azure Accelerator for Research Program](https://internet2.edu/advance-your-transition-to-the-cloud-with-the-azure-accelerator-program-for-research/). Five projects were selected to receive up to $5000 in credits, access to hands-on Azure workshops, and technical help from Azure solutions architect. Find out more about the projects on [Github](https://github.com/I2AzureAccelerator).
-
+    body: " In October 2022, Internet2 CLASS and Microsoft Azure launched the inaugural [Azure Accelerator for Research Program](https://internet2.edu/advance-your-transition-to-the-cloud-with-the-azure-accelerator-program-for-research/). Five projects were selected to receive up to $5000 in credits, access to hands-on Azure workshops, and technical help from Azure solutions architect. Find out more about the projects [here](https://internet2.edu/5-projects-selected-for-the-inaugural-internet2-azure-accelerator-cohort/) or on [Github](https://github.com/I2AzureAccelerator).
 <br />
 <br />
 **[Sign up for the CLASS Mailing List](https://lists.internet2.edu/sympa/info/class-announce) to be the first to hear about the next CLASS Incubator Program!** 
@@ -132,7 +131,7 @@ When you participate in any CLASS Learning module or Incubator program, you auto
     social:
       - url: https://twitter.com/internet2
         icon: "fab fa-twitter"
-      - url: https://linkedin.com/internet2
+      - url: https://linkedin.com/company/internet2
         icon: "fab fa-linkedin-in"
       - url: https://github.com/internet2-class/
         icon: "fab fa-github"
