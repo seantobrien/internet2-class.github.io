@@ -30,6 +30,8 @@ background: white
     5. Monitor costs
     6. Clean up your resources and utilize best practices for developing research workflows on the cloud
 
+Current cost: $125/participant
+
 <br/>
 <div>
 <h3 class="section-subheading text-uppercase text-muted">CLASS ADVANCED</h3>
@@ -39,7 +41,7 @@ background: white
 - Week 1: Participants will learn advanced cloud skills such as networking, identity management, multi-cloud architecture, databases, continuous-deployment, microservices, and AI/ML pipelines. 
 - Week 2: Collaborative capstone project to simulate real-world and academic use cases.
 
-**A new iteration of CLASS Advanced will launch in January 2023. [Sign up](https://lists.internet2.edu/sympa/info/class-announce?_ga=2.148534065.729352177.1666476629-1035221937.1630427862) to be notified when applications open!** 
+**A new iteration of CLASS Advanced will launch in February 2023. [Sign up](https://lists.internet2.edu/sympa/info/class-announce?_ga=2.148534065.729352177.1666476629-1035221937.1630427862) to be notified when applications open in January 2023!** 
 
 
 <br/>
