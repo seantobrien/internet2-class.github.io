@@ -1,0 +1,126 @@
+I"�<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Topic</th>
+      <th>Type</th>
+      <th>Presenter</th>
+      <th>Audience</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2/21 - 4/21</td>
+      <td>GCP Professional Cloud Architect</td>
+      <td>Certification Prep (9 weeks)</td>
+      <td>Oren Sreebny</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>2/22 - 4/22</td>
+      <td>AWS Solutions Architect Associate</td>
+      <td>Certification Prep (9 weeks)</td>
+      <td>Sharif Nijim</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>5/22 - 6/22</td>
+      <td>AWS Solutions Architect Associate</td>
+      <td>Certification Prep (9 weeks)</td>
+      <td>Sharif Nijim</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>4/20/22</td>
+      <td><a href="https://events.withgoogle.com/fundamentals-of-life-science-tools-in-google-cloud-april/">Fundamentals of Life Science Tools on Google Cloud</a></td>
+      <td>Hands-on sprint ( 8 hours)</td>
+      <td>Rui Costa / GCP</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>5/18/22</td>
+      <td>Making the most of Azure Spot instances</td>
+      <td>Talk (60 mins)</td>
+      <td>Jerry Morey / Azure</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>5/26/22</td>
+      <td><a href="./2022-events/CLASS-Essentials-AWS-052622.md">CLASS Essentials for Amazon Web Services (AWS)</a></td>
+      <td>Training (4 hours)</td>
+      <td>Amanda Tan / Internet2</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>6/15/22</td>
+      <td>AWS Hybrid/Cloud Bursting</td>
+      <td>Talk (60 mins)</td>
+      <td>Scott Friedman / AWS</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>7/22 - 9/22</td>
+      <td>AWS Solutions Architect Associate</td>
+      <td>Certification Prep (9 weeks)</td>
+      <td>Sharif Nijim</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>8/15/22</td>
+      <td><a href="https://internet2.edu/advance-your-transition-to-the-cloud-with-the-azure-accelerator-program-for-research/">Call for Applications Open: Azure Accelerator for Research</a></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>9/12/22</td>
+      <td>FAIR Supercomputing using Azure CycleCloud</td>
+      <td>Sprint (6 hours)</td>
+      <td>Azure</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>10/25/22</td>
+      <td><a href="https://internet2.edu/class-essentials-for-google-cloud-platform/">CLASS Essentials for Google Cloud Platform</a></td>
+      <td>4-hour workshop</td>
+      <td>Timothy Middelkoop</td>
+      <td>Research</td>
+    </tr>
+    <tr>
+      <td>9/22 - 11/22</td>
+      <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeJ9qIx6T30Jmy31Vi6ZyydgvHPI0sqOGaHFDHGqV9qGD_gBg/viewform">AWS Solutions Architect Associate (Cohort #4)</a></td>
+      <td>Certification Prep (9 weeks)</td>
+      <td>Sharif Nijim</td>
+      <td>Enterprise IT</td>
+    </tr>
+    <tr>
+      <td>11/1/22</td>
+      <td><a href="https://internet2.edu/class-essentials-for-amazon-web-services/">CLASS Essentials for Amazon Web Services</a></td>
+      <td>4-hourworkshop</td>
+      <td>Amanda Tan</td>
+      <td>Research</td>
+    </tr>
+    <tr>
+      <td>11/8/22</td>
+      <td><a href="https://internet2.edu/class-essentials-for-microsoft-azure/">CLASS Essentials for Microsoft Azure</a></td>
+      <td>4-hour workshop</td>
+      <td>Naomi Alterman</td>
+      <td>Research</td>
+    </tr>
+    <tr>
+      <td>12/6/22</td>
+      <td><a href="https://internet2.edu/2022-technology-exchange/tutorials/#catalying">Catalyzing Cloud Adoption Through CLASS</a></td>
+      <td>Tech Exchange</td>
+      <td>Amanda Tan</td>
+      <td>IT/Research</td>
+    </tr>
+    <tr>
+      <td>12/7/22</td>
+      <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSdgwiwMvcsSHMLx8Sgc-WfegsZwXg-roDnVdH5RFWXOZpYR_g/viewform?usp=sf_link">Internet2/Microsoft Azure Accelerator Final Presentation</a></td>
+      <td>Virtual Event</td>
+      <td>Various</td>
+      <td>Research</td>
+    </tr>
+  </tbody>
+</table>
+:ET

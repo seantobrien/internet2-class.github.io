@@ -1,0 +1,44 @@
+I"×<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Topic</th>
+      <th>Type</th>
+      <th>Presenter</th>
+      <th>Audience</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>02/06/23 - 04/10/23</td>
+      <td><a href="https://internet2.edu/class-learning-pathway/">AWS Solutions Architect Associate Certification (Cohort #5)</a></td>
+      <td>Certification Prep (9 weeks)</td>
+      <td>Sharif Nijim</td>
+      <td>Enterprise IT</td>
+    </tr>
+    <tr>
+      <td>2/20/23</td>
+      <td>CLASS Advanced (More Info Coming Soon)</td>
+      <td>2-week training</td>
+      <td>Various</td>
+      <td>IT/Research Support</td>
+    </tr>
+    <tr>
+      <td>04/15/23</td>
+      <td><a href="https://internet2.edu/class-essentials-for-amazon-web-services/">CLASS Essentials for Amazon Web Services</a></td>
+      <td>4-hourworkshop</td>
+      <td>Amanda Tan</td>
+      <td>Research</td>
+    </tr>
+    <tr>
+      <td>04/22/23</td>
+      <td><a href="https://internet2.edu/class-essentials-for-microsoft-azure/">CLASS Essentials for Microsoft Azure</a></td>
+      <td>4-hour workshop</td>
+      <td>TBD</td>
+      <td>Research</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /> <br /> <a href="./pastevents">Click here for Past Events</a></p>
+:ET
